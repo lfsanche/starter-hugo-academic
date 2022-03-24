@@ -31,7 +31,7 @@ content:
     street: Km 30.5 vía perimetral, Campus Gustavo Galindo
 
     city: Guayaquil
-    region: Guayas
+    # region: Guayas
     postcode: '09-01-5863'
     country: Ecuador
     country_code: EC
