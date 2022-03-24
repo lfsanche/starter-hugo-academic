@@ -1,12 +1,11 @@
 ---
 title: Leonardo F. Sánchez-Aragón
-role: Professor of Artificial Intelligence
+role: Professor of Economics
 bio: My research interests include  Agricultural Policy, Network Formation  and
   Strategic management and organization theory.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Agricultural Policy
+  - Network Formation  and Strategic management and organization theory.
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,7 +18,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lfsanche
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
