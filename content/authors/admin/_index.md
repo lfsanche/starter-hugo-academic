@@ -1,6 +1,7 @@
 ---
 title: Leonardo F. Sánchez-Aragón
 role: Professor of Economics
+avatar_filename: avatar.jpg
 bio: My research interests include  Agricultural Policy, Network Formation  and
   Strategic management and organization theory.
 interests:
