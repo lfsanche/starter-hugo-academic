@@ -8,11 +8,6 @@ authors:
 - Pablo Estrada
 - Leonardo Sanchez-Aragon
 
-<!-- # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution" -->
-
 date: "2020-01-01"
 doi: ""
 
@@ -27,12 +22,11 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Advances in Econometrics, Volume 42, pp. 265-292
-publication_short: In *ICW*
 
 abstract: Financial contagion refers to the propagation of shocks that can generate widespread failures. We apply a financial contagion model proposed by Elliott et al. (2014) to a cross-shareholding network of firms in Ecuador. We use a novel dataset to study the potential channels for contagion. Although diversification is not high, results reveal enough conditions for a contagion event to occur. However, the low level of integration attenuates the effects of shocks. We run simulations affecting a particular firm at the time, and wefind that twofirms coming from the finance and trade industry cause the highest contagion. In addition, when an entire industry receives a shock, trade and manufacturing industries contagion more companies than the rest. Finally, the model can assist policymakers to monitor the market and evaluate the fragility of the network in different scenarios.
 
-<!-- # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. -->
+# <!-- # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. -->
 
 tags: []
 
@@ -55,10 +49,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
