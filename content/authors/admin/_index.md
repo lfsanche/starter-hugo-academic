@@ -22,7 +22,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-organizations: []
+organizations:
+  - name: ESPOL UNIVERSITY
+    url: www.espol.edu.ec
 education:
   courses:
     - course: PhD in Agricultural Economics
@@ -34,7 +36,7 @@ education:
     - course: BSc in Economics
       institution: ESPOL University
       year: 2000
-email: ""
+email: lfsanche@espol.edu.ec
 superuser: true
 highlight_name: true
 ---
