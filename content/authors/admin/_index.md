@@ -37,7 +37,7 @@ education:
     - course: BSc in Economics
       institution: ESPOL University
       year: 2000
-email: lfsanche@espol.edu.ec
+email: lfsanche [at] espol [dot] edu [dot] ec
 superuser: true
 highlight_name: true
 ---

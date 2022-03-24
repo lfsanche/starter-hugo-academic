@@ -28,15 +28,16 @@ content:
   email: test@example.org
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: Km 30.5 vía perimetral, Campus Gustavo Galindo
+
+    city: Guayaquil
     region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    # postcode: '94305'
+    country: Ecuador
+    country_code: EC
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: "-2.1474188"
+    longitude: "-79.9688672"
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
