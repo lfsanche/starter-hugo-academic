@@ -16,16 +16,16 @@ social:
     link: https://twitter.com/lfsanche
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=l0QA0mEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/lfsanche
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/leonardo-sanchez-aragon-7754571b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKY%2FAyPk%2BQU%2BDoW7zZEahww%3D%3D
 organizations:
   - name: ESPOL University
-    url: www.espol.edu.ec
+    url: https://www.espol.edu.ec
 education:
   courses:
     - course: PhD in Agricultural Economics
