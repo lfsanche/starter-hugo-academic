@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Agricultural Economics
       institution: Texas A&M University
-      year: 2013
+      year: 2014
     - course: MSc. in Economics
       institution: Universitat Pompeu Fabra
       year: 2004
