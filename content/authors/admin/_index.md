@@ -24,7 +24,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: ESPOL UNIVERSITY
+  - name: ESPOL University
     url: www.espol.edu.ec
 education:
   courses:
