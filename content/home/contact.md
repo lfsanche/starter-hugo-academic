@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: lfsanche [at] espol [dot] edu [dot] ec
+  phone: +593 4 2269 269
   address:
     street: Km 30.5 vía perimetral, Campus Gustavo Galindo
 
@@ -38,10 +38,10 @@ content:
   coordinates:
     latitude: "-2.1474188"
     longitude: "-79.9688672"
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  # office_hours:
+  #   - 'Monday 10:00 to 13:00'
+  #   - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
