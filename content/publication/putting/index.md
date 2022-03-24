@@ -80,33 +80,3 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-+++
-title = ""
-date = ""
-authors = ["g","Leonardo Sanchez-Aragon"]
-publication_types = ["2"]
-publication = ""
-publication_short = "Journal of Knowledge Management, Volume 42, pp. 265-292"
-doi = ""
-abstract = "T"
-abstract_short = ""
-image_preview = ""
-selected = false
-projects = []
-tags = []
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-links = [{name="url",  url = ""}]
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-math = true
-highlight = true
-[header]
-image = ""
-caption = ""
-+++
