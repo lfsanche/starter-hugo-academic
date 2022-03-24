@@ -2,11 +2,11 @@
 title: Leonardo F. Sánchez-Aragón
 role: Professor of Economics
 avatar_filename: avatar.jpg
-bio: My research interests include  Agricultural Policy, Network Formation  and
-  Strategic management and organization theory.
+bio: Leonardo Sánchez-Aragón is an Associate Professor at the ESPOL University. His research interests include estimating agricultural productivity, evaluating the effectiveness of agricultural insurance, and the impact of social networks. He has served ESPOL as Associate Dean and as Dean of the Faculty of Social and Humanistic Sciences. Currently, he is associated researcher of Center of Rural Research at ESPOL.
 interests:
   - Agricultural Policy
-  - Network Formation  and Strategic management and organization theory.
+  - Network Formation 
+  - Strategic management and organization theory.
 social:
   - icon: envelope
     icon_pack: fas
