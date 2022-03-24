@@ -9,7 +9,7 @@ authors:
 - Leonardo Sanchez-Aragon
 
 date: "2020-01-01"
-doi: "https://www.emerald.com/insight/content/doi/10.1108/S0731-905320200000042017/full/html#:~:text=Financial%20contagion%20refers%20to%20the,the%20potential%20channels%20for%20contagion."
+doi: "https://doi.org/10.1108/S0731-905320200000042017"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
