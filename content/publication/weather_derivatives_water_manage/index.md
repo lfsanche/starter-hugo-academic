@@ -1,15 +1,16 @@
 ---
-title: "Financial Contagion in Cross-holdings Networks: the case of Ecuador"
+title: "Weather Derivatives and Water Management in Developing Countries: An Application for an Irrigation District in Central Mexico"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Pablo Estrada
+- Miriam Juarez-Torres
 - Leonardo Sanchez-Aragon
+- Dmitry Vedenov
 
-date: "2020-01-01"
-doi: "https://www.emerald.com/insight/content/doi/10.1108/S0731-905320200000042017/full/html#:~:text=Financial%20contagion%20refers%20to%20the,the%20potential%20channels%20for%20contagion."
+date: "2017-05-17"
+doi: "https://jareonline.org/articles/weather-derivatives-and-water-management-in-developing-countries-an-application-for-an-irrigation-district-in-central-mexico/""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,9 +22,9 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Advances in Econometrics, Volume 42, pp. 265-292
+publication: Journal of Agricultural and Resource Economics, Volume 42, No. 2 (May 2017), pp. 146-163
 
-abstract: Financial contagion refers to the propagation of shocks that can generate widespread failures. We apply a financial contagion model proposed by Elliott et al. (2014) to a cross-shareholding network of firms in Ecuador. We use a novel dataset to study the potential channels for contagion. Although diversification is not high, results reveal enough conditions for a contagion event to occur. However, the low level of integration attenuates the effects of shocks. We run simulations affecting a particular firm at the time, and wefind that twofirms coming from the finance and trade industry cause the highest contagion. In addition, when an entire industry receives a shock, trade and manufacturing industries contagion more companies than the rest. Finally, the model can assist policymakers to monitor the market and evaluate the fragility of the network in different scenarios.
+abstract: This paper analyzes possible improvements to water allocation from introducing weather derivatives as an insurance instrument in irrigation districts with no water markets and two cropping seasons. Dry-season production depends completely on irrigation, while wet-season production depends on irrigation as a supplement to naturally occurring precipitation. Using an analytical model of water allocation and historical data from an irrigation district in Central Mexico, simulations show that weather derivatives could encourage interseasonal reallocation of water from wet to dry season, generating new Pareto-optimal water allocations that improve overall welfare among producers.
 
 # <!-- # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. -->
@@ -36,9 +37,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: ""
+#   url: "https://www.emerald.com/insight/content/doi/10.1108/S0731-905320200000042017/full/html#:~:text=Financial%20contagion%20refers%20to%20the,the%20potential%20channels%20for%20contagion."
 
-url_pdf: ''
+url_pdf: "weather_derivatives_water_manage/2017_Juarez_Sanchez_Vedenov.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
