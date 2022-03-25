@@ -69,7 +69,7 @@ features:
   diagram:
     enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
@@ -101,7 +101,7 @@ features:
 extensions:
   cms:
     branch: master
-    local_backend: false
+    local_backend: true
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
     enable: true
