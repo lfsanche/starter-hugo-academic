@@ -9,7 +9,7 @@ data.head()
 ```
 
 
-{{< figure src="first_figure.js" title="A caption" >}}
+{{< chart data ="first_figure.js"  >}}
 
 
 {{< math >}}
