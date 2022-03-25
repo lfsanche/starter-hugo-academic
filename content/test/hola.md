@@ -1,0 +1,3 @@
+## hola
+
+ {{< chart data="name" >}}
