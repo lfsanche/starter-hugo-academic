@@ -2,7 +2,8 @@
 
 Some text
 
-{{< chart data ="name.png" >}}
+{{< figure src="name.png" title="A caption" >}}
+
 
  {{< math >}}
 $$
