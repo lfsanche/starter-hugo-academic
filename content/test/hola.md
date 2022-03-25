@@ -8,8 +8,9 @@ data = pd.read_csv("data.csv")
 data.head()
 ```
 
+{{< load-plotly >}}
+{{< plotly json="first_figure.json" height="400px" >}}
 
-{{< chart  data= "first_figure.json" >}}
 
 ```mermaid
 graph TD;
