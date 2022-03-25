@@ -1,26 +1,18 @@
----
++++
+
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
-
-# This file represents a page section.
-headless: true
+widget = "custom"
+active = true
+date = 2016-04-20T00:00:00
 
 # Order that this section appears on the page.
-weight: 1
+weight: 90
 
 # Section title
 title: Ag Econ
 
-# Section subtitle
-subtitle:
 
-# Section design
-design:
-  # Use a 1-column layout
-  columns: "1"
-  # Use a dark navy background with light text.
-  background:
-    color: 'navy'
-    text_color_light: true
----
++++
+
+## __Effect of 
