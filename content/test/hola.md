@@ -2,7 +2,7 @@
 
 Some text
 
-{{< python>}}
+
 {{< figure src="first_figure.png" title="A caption" >}}
 
 
