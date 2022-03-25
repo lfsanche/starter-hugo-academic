@@ -63,8 +63,9 @@ features:
     extra_languages:
       - r
       - latex
+      - python
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
