@@ -13,10 +13,12 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 40
 
-This is a {{< hl >}}highlighted quote{{< /hl >}}.
+
 +++
 
 ### __Outstanding Ph.D. Dissertation Award__
+
+This is a {{< hl >}}highlighted quote{{< /hl >}}.
 
 SDASFAFD
 ASDFADFA
