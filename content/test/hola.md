@@ -9,7 +9,7 @@ data.head()
 ```
 
 
-{{< chart data ="first_figure.js"  >}}
+{{< chart data ="first_figure.json"  >}}
 
 ```mermaid
 graph TD;
