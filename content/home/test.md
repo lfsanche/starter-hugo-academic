@@ -13,8 +13,7 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 40
 
-{{< chart data="name.png" >}}
-
+This is a {{< hl >}}highlighted quote{{< /hl >}}.
 +++
 
 ### __Outstanding Ph.D. Dissertation Award__
