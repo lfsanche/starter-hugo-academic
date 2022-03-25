@@ -2,7 +2,7 @@
 
 Some text
 
-{{< figure src="name.png" title="A caption" >}}
+{{< figure src="first_figure.json" title="A caption" >}}
 
 
  {{< math >}}
