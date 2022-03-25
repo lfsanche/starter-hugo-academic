@@ -4,4 +4,4 @@ sgsfgsf
 sfgsfgsfg
 sgfsfgsfg
 
-{{< youtube w7Ft2ymGmfc >}}
+ {{< chart data="name.png" >}}
