@@ -4,6 +4,14 @@ Some text
 
 {{< figure src="first_figure.json" title="A caption" >}}
 
+jupyter nbconvert tt.ipynb --to markdown --NbConvertApp.output_files_dir=.
+
+# Copy the contents of Untitled.md and append it to index.md:
+cat Untitled.md | tee -a index.md
+
+# Remove the temporary file:
+rm Untitled.md
+
 
  {{< math >}}
 $$
