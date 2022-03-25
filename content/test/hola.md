@@ -2,6 +2,12 @@
 
 Some text
 
+```python
+import pandas as pd
+data = pd.read_csv("data.csv")
+data.head()
+```
+
 
 {{< figure src="first_figure.png" title="A caption" >}}
 
