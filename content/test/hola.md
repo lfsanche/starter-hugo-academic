@@ -2,7 +2,7 @@
 
 Some text
 
-{{< figure library="true" src="name.png" title="A caption" >}}
+{{< chart data ="name.png" >}}
 
  {{< math >}}
 $$
