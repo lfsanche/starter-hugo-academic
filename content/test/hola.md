@@ -9,7 +9,7 @@ data.head()
 ```
 
 
-{{< chart data ="https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/10.json" >}}
+{{/*< plotly json= "first_figure.json" >*/}}
 
 ```mermaid
 graph TD;
