@@ -1,22 +1,28 @@
-+++
-# Tag Cloud widget.
-widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 120  # Order that this section will appear.
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: links
 
-title = "Links"
-subtitle = ""
+# This file represents a page section.
+headless: true
 
-[content]
-  # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
-  taxonomy = "tags"
-  
-  # Choose how many tags you would like to display (0 = all tags)
-  count = 20
+# Order that this section appears on the page.
+weight: 40
 
-[design]
-  # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min = 0.7
-  font_size_max = 2.0
-+++
+title: Links
+subtitle:
+
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+
+design:
+  columns: '2'
+---
