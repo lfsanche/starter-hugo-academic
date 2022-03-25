@@ -11,6 +11,15 @@ data.head()
 
 {{< chart data ="first_figure.js"  >}}
 
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
+
+
 
 {{< math >}}
 $$
