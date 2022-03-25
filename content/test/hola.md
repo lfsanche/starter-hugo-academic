@@ -1,10 +1,8 @@
-## hola
+## Header
 
-sgsfgsf
-sfgsfgsfg
-sgfsfgsfg
+Some text
 
-{{< figure library="true" src="first_figure.html" title="A caption" >}}
+{{< figure library="true" src="name.png" title="A caption" >}}
 
  {{< math >}}
 $$
