@@ -4,7 +4,7 @@ sgsfgsf
 sfgsfgsfg
 sgfsfgsfg
 
- {{< chart data=name.png >}}
+{{< figure library="true" src="name.png" title="A caption" >}}
 
  {{< math >}}
 $$
