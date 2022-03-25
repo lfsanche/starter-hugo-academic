@@ -9,7 +9,7 @@ data.head()
 ```
 
 
-{{< plotly json= "first_figure.json" >}}
+{{< chart  data= "first_figure.json" >}}
 
 ```mermaid
 graph TD;
