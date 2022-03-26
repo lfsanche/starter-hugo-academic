@@ -8,7 +8,7 @@ data = pd.read_csv("data.csv")
 data.head()
 ```
 
-{{< chart data = "/assets/media/albuns/first_figure.png" >}}
+{{< chart data = "/static/first_figure.json" >}}
 
 
 ```mermaid
