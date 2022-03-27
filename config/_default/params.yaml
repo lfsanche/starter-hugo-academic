@@ -65,7 +65,7 @@ features:
       - latex
       - python
   math:
-    enable: true
+    enable: false
   diagram:
     enable: true
   privacy_pack:
