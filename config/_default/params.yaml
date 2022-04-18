@@ -65,13 +65,13 @@ features:
       - latex
       - python
   math:
-    enable: false
+    enable: true
   diagram:
     enable: true
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/lfsanche/starter-hugo-academic'
     content_dir: content
     branch: master
   avatar:
