@@ -5,8 +5,8 @@ title: "Modelo de Equilibrio General de Ecuador: Extensión en el Análisis del 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jos\'e Ram\'irez
-- Leonardo S\'anchez-Arag\'on
+- Jos\'{e} Ram\'{i}rez
+- Leonardo S\'{a}nchez-Arag\'{o}n
 
 
 date: "2005-06-14"
