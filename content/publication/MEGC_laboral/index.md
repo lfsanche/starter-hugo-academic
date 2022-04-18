@@ -5,8 +5,8 @@ title: "Modelo Ecuatoriano de Equilibrio General Aplicado Refinamiento del Merca
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jos\'{e} Ram\'{i}rez
-- Leonardo S\'{a}nchez-Arag\'{o}n
+- Jose Ramirez
+- Leonardo Sanchez-Aragon
 
 
 date: "2005-06-14"
